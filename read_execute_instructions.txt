@@ -1,0 +1,16 @@
+do
+ npm i body-parser dotenv mongoose
+ npm i --save-dev webpack webpack-cli
+ npm i --save-dev react react-dom
+ npm i react-router-dom
+
+
+In Terminal 1:
+npm run watch
+
+In Terminal 2:
+npm start
+
+
+In browser:
+http://localhost:5000/
